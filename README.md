@@ -1,4 +1,4 @@
-# multimedita_question_answering
+# Multimedita Question Answering
 
 Increasing trend in the research community for video processing using artificial intelligence.
 Trending Tasks:
@@ -13,17 +13,23 @@ The main idea of the project is that searching for partition of video which is m
 
 # Examples
 
-[![Watch the video]()]()
+[![Watch the video](Images/sample_video.png)](https://youtu.be/VwxOHvsqeU0)
 
 # Dataset
 
 We use the Microsoft Research Video to Text (MSR-VTT) dataset.
 Example of the dataset is shown below.
+<p align="center">
+  <img width="650" height="350" src="Images/dataset.png">
+</p>
 
 # Architecture
 
-Here is the base architecture which is used in []() paper.
-![]()
+Here is the base architecture which is used in paper [here](https://arxiv.org/abs/1808.02559).
+
+<p align="center">
+  <img width="650" height="350" src="Images/arch.png">
+</p>
 
 
 # Authors
