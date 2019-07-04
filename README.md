@@ -20,7 +20,7 @@ The main idea of the project is that searching for partition of video which is m
 We use the Microsoft Research Video to Text (MSR-VTT) dataset.
 Example of the dataset is shown below.
 <p align="center">
-  <img width="650" height="350" src="Images/dataset.png">
+  <img width="650" height="350" src="Images/dataset.PNG">
 </p>
 
 # Architecture
@@ -28,7 +28,7 @@ Example of the dataset is shown below.
 Here is the base architecture which is used in paper [here](https://arxiv.org/abs/1808.02559).
 
 <p align="center">
-  <img width="650" height="350" src="Images/arch.png">
+  <img width="650" height="350" src="Images/arch.PNG">
 </p>
 
 
