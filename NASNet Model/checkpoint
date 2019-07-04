@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/Graduation Project/Output/checkpoint_lsmdc_NASNet/RET_/model.ckpt-65129"
+all_model_checkpoint_paths: "/content/drive/My Drive/Graduation Project/Output/checkpoint_lsmdc_NASNet/RET_/model.ckpt-65129"
