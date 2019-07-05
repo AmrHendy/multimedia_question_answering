@@ -9,7 +9,7 @@ Trending Tasks:
 # Main Idea
 
 The main idea of the project is that searching for partition of video which is most relevent to a corresponding query "Question".
-
+Instead of watching the complete video to find the interval you want to watch, you will give our model the video and the query which describes the part you want, then our model will give you the intervals sorted by relevance to the given query.
 
 # Examples
 
@@ -60,7 +60,20 @@ We have trained the model using different visual features extractors and changed
 * Using Squeeze and Excitation technique and increasing hidden dimension of the LSTMs: [gdrive link](https://drive.google.com/drive/folders/1XZISh3Jg24jMuChZ5ChOb1kgvOEns2fC?usp=sharing)
 
 
+# Results
 
+From the results obtained in the explained experiments,  we found out that the best results obtained are from using Inception-ResNet-v2 as feature extractor for the visual features. Our model outperforms the original paper model in all used metrics as shown in the following table:
+
+<p align="center">
+  <img width="650" height="350" src="Images/results.PNG">
+</p>
+
+These results obtained from testing on the test set which contains 2990 videos.
+
+You can see the comparison between all models in the following figure:
+<p align="center">
+  <img width="650" height="350" src="Images/results2.PNG">
+</p>
 
 # Authors
 
