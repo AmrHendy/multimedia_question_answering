@@ -8,7 +8,7 @@ Trending Tasks:
 
 # Main Idea
 
-The main idea of the project is that searching for partition of video which is most relevent to a corresponding query "Question".
+The main idea of the project is that searching for partition of video which is most relevent to a corresponding query "Question". <br/>
 Instead of watching the complete video to find the interval you want to watch, you will give our model the video and the query which describes the part you want, then our model will give you the intervals sorted by relevance to the given query.
 
 # Examples
@@ -17,7 +17,7 @@ Instead of watching the complete video to find the interval you want to watch, y
 
 # Dataset
 
-We use the Microsoft Research Video to Text (MSR-VTT) dataset.
+We use the Microsoft Research Video to Text (MSR-VTT) dataset. <br/>
 Example of the dataset is shown below.
 <p align="center">
   <img width="650" height="350" src="Images/dataset.PNG">
@@ -62,13 +62,14 @@ We have trained the model using different visual features extractors and changed
 
 # Results
 
-From the results obtained in the explained experiments,  we found out that the best results obtained are from using Inception-ResNet-v2 as feature extractor for the visual features. Our model outperforms the original paper model in all used metrics as shown in the following table:
+From the results obtained in the explained experiments,  we found out that the best results obtained are from using Inception-ResNet-v2 as feature extractor for the visual features. <br/>
+**Our model outperforms the original paper model in all used metrics** as shown in the following table:
 
 <p align="center">
   <img width="650" height="350" src="Images/results.PNG">
 </p>
 
-These results obtained from testing on the test set which contains 2990 videos.
+These results obtained from testing on the **test set which contains 2990 videos**.
 
 You can see the comparison between all models in the following figure:
 <p align="center">
