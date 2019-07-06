@@ -1,4 +1,4 @@
-# Multimedita Question Answering
+# Multimedia Question Answering
 
 Increasing trend in the research community for video processing using artificial intelligence.
 Trending Tasks:
